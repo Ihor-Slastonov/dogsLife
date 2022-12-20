@@ -8,20 +8,7 @@ to{
   opacity: 1;
 }
 `;
-const paw = keyframes`
-0%{
-opacity: 0;
-  transform: scale(1);
-}
-50%{
-  opacity: 1;
-  transform: scale(1.2);
-}
-100%{
-opacity: 0;
-transform: scale(1);
-}
-`;
+
 export const StartPageWrapper = styled.div`
   position: relative;
   display: flex;
@@ -59,11 +46,4 @@ export const PreTitle = styled(Title)`
   opacity: 0;
 
   animation: ${titlefade} 2s 0.1s forwards ease-in-out;
-`;
-
-export const Paw = styled.img`
-  margin: 30px auto;
-  opacity: 0;
-  animation: ${paw} 2s 1s  4 forwards ease-in-out;
-
 `;
