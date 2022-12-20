@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/dogsLife/static/css/main.7acaea2f.css",
-    "main.js": "/dogsLife/static/js/main.07d3183d.js",
+    "main.css": "/dogsLife/static/css/main.53d29878.css",
+    "main.js": "/dogsLife/static/js/main.686c0623.js",
+    "static/media/dog.png": "/dogsLife/static/media/dog.55a7a9a2416d7de858b7.png",
     "index.html": "/dogsLife/index.html",
-    "main.7acaea2f.css.map": "/dogsLife/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/dogsLife/static/js/main.07d3183d.js.map"
+    "main.53d29878.css.map": "/dogsLife/static/css/main.53d29878.css.map",
+    "main.686c0623.js.map": "/dogsLife/static/js/main.686c0623.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.53d29878.css",
+    "static/js/main.686c0623.js"
   ]
 }
