@@ -5,5 +5,5 @@ export const Container = styled.div`
   max-width: 360px;
   margin: 0 auto;
   padding: 0 10px;
-  outline: 1px solid tomato;
+  /* outline: 1px solid tomato; */
 `;
