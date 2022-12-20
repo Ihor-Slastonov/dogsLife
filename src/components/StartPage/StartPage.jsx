@@ -10,7 +10,7 @@ import {
 export const StartPage = () => {
   return (
     <>
-      <PreTitle>Welcom to</PreTitle>
+      <PreTitle>Welcome to</PreTitle>
       <StartPageWrapper>
         <Title>Dog's</Title>
         <TitleRight>Life</TitleRight>
